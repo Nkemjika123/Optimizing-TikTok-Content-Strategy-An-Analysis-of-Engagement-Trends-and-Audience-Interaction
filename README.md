@@ -1,7 +1,7 @@
 # OPTIMIZING TIKTOK CONTENT STRATEGY: An Analysis of Engagement Trends and Audience Interaction.
 
 ## Table of Contents
-1. - [INTRODUCTION](##OPTIMIZING-TIKTOK-CONTENT-STRATEGY:-An-Analysis-of-Engagement-Trends-and-Audience-Interaction.)  
+1. - [INTRODUCTION](#OPTIMIZING-TIKTOK-CONTENT-STRATEGY:-An-Analysis-of-Engagement-Trends-and-Audience-Interaction.)  
 2. - [DATA STRUCTURE](#data-structure)  
 3. - [DATA SOURSE](#data-source)  
 4. - [TOOLS](#tools)  
