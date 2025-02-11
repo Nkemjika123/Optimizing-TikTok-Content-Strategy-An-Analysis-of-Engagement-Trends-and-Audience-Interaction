@@ -111,7 +111,66 @@
 ---
 
 ## Exploratory Analysis
-*(Continue the analysis from here if needed, including visualizations and further insights.)*
+
+Here’s your complete analysis formatted with GitHub-flavored markdown for better structure and readability:
+
+---
+
+## Content Analysis
+
+### 4. Which sound or sound type performs best (most likes)?  
+The table above shows that **trending sounds** are highly encouraged for better engagement.  
+
+### 5. What type of content titles attract the most likes?  
+The chart above indicates that **educational content** titles attract the most likes.  
+
+### 6. Is there a relationship between posting time (Date/Time) and engagement?  
+The chart above highlights that the **7 PM to 10 PM** time slot is the most preferred, with an average of **over 3,000 likes** during these hours.  
+
+### 7. How many posts were restricted to specific locations (e.g., Nigeria), and how did they perform compared to unrestricted posts?  
+Posts restricted to specific locations, such as **Nigeria**, **perform better** compared to unrestricted posts.  
+
+### 8. What percentage of posts are visible to everyone?  
+Posts set to be visible to **everyone** show **better performance** than those with restricted visibility.  
+
+### 9. What’s the distribution of video vs. photo-based posts?  
+The chart above reveals that **video content dominates** with over **70%**, while photo-based posts make up around **25%** of the total.  
+
+---
+
+## Time Series Analysis
+
+### 10. How has engagement (likes) changed over time?  
+The line chart shows a **significant increase** in engagement during **December to January 2025**, with total likes exceeding **10,000**.  
+
+- Likes decline in **February 2025**, which may be due to the data being extracted on **07/02/2025**, resulting in incomplete February data.  
+- During **November to December**, there was an **increase in posts (1–3 per day)**. In January, posting frequency decreased to **1–2 posts per day**.  
+- The **spike in January 2025** suggests that consistent posting efforts during the preceding months led to the increase in engagement.  
+
+---
+
+## Correlation Analysis
+
+### 11. Which content settings (allowing stitches, duets, sharing to story) correlate with higher likes?  
+The correlation matrix reveals the following:  
+
+1. **Like(s) and Allow comments_Yes (-0.53)**:  
+   Moderate negative correlation. This suggests that allowing comments is associated with a slight decrease in likes.  
+   
+2. **Like(s) and Allow stitches_Yes (0.44)**:  
+   Moderate positive correlation, indicating that allowing stitches is somewhat associated with an increase in likes.  
+
+3. **Like(s) and Allow duets_Yes (0.07)**:  
+   Weak positive correlation. There’s little to no relationship between allowing duets and the number of likes.  
+
+4. **Like(s) and Allow stickers_Yes (0.19)**:  
+   Weak positive correlation, indicating a slight increase in likes when stickers are allowed.  
+
+5. **Like(s) and Allow sharing to story_Yes (-0.78)**:  
+   Strong negative correlation. Allowing sharing to stories correlates with a significant decrease in likes.  
+
+---
+
 
 ---
 
