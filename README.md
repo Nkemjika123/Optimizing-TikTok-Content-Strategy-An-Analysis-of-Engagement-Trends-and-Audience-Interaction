@@ -142,36 +142,41 @@
 
 ---
 
-# Exploratory Analysis
+# EXPLORATORY ANALYSIS
 
-### 4. Which sound or sound type performs best (most likes)? 
+## 4. Which sound or sound type performs best (most likes)? 
 ![Screenshot 2025-02-10 210932](https://github.com/user-attachments/assets/90b8e085-eb47-4897-b736-fe8d9fca510e)
 
 The table above shows that **trending sounds** are highly encouraged for better engagement.  
 
-### 5. What type of content titles attract the most likes?  
+## 5. What type of content titles attract the most likes?  
 ![Screenshot 2025-02-10 215237](https://github.com/user-attachments/assets/6fb8655f-0c05-4173-ae65-f81cbd8b2705)
 
 The chart above indicates that **educational content** titles attract the most likes.  
+  
+## 6. What percentage of posts are visible to everyone?  
+![Screenshot 2025-02-10 224901](https://github.com/user-attachments/assets/e7eceb50-dc98-4aee-bfc9-b2642d4b658c)
 
-### 6. Is there a relationship between posting time (Date/Time) and engagement?  
-
-The chart above highlights that the **7 PM to 10 PM** time slot is the most preferred, with an average of **over 3,000 likes** during these hours.  
-
-### 7. How many posts were restricted to specific locations (e.g., Nigeria), and how did they perform compared to unrestricted posts?  
-Posts restricted to specific locations, such as **Nigeria**, **perform better** compared to unrestricted posts.  
-
-### 8. What percentage of posts are visible to everyone?  
 Posts set to be visible to **everyone** show **better performance** than those with restricted visibility.  
 
-### 9. What’s the distribution of video vs. photo-based posts?  
+---
+
+# COMPARATIVE ANALYSIS
+## 7. What’s the distribution of video vs. photo-based posts?  
+![Screenshot 2025-02-10 234754](https://github.com/user-attachments/assets/04287064-0c52-48b9-a365-b0557aa5ffdd)
+
 The chart above reveals that **video content dominates** with over **70%**, while photo-based posts make up around **25%** of the total.  
+
+### 8. How many posts were restricted to specific locations (e.g., Nigeria), and how did they perform compared to unrestricted posts?
+![Screenshot 2025-02-10 215455](https://github.com/user-attachments/assets/a1c34835-f687-4210-b89e-113302ddd5e2)
+
+Posts restricted to specific locations, such as **Nigeria**, **perform better** compared to unrestricted posts.  
 
 ---
 
 ## Time Series Analysis
 
-### 10. How has engagement (likes) changed over time?  
+### 9. How has engagement (likes) changed over time?  
 ![Screenshot 2025-02-10 230009](https://github.com/user-attachments/assets/14d433bb-7dfb-4ef2-8279-b9024838ec96)
 
 The line chart shows a **significant increase** in engagement during **December to January 2025**, with total likes exceeding **10,000**.  
@@ -182,9 +187,14 @@ The line chart shows a **significant increase** in engagement during **December 
 
 ---
 
-# Correlation Analysis
+# CORRELATIVE ANALYSIS 
 
-### 11. Which content settings (allowing stitches, duets, sharing to story) correlate with higher likes?  
+## 10. Is there a relationship between posting time (Date/Time) and engagement? 
+![Screenshot 2025-02-10 215408](https://github.com/user-attachments/assets/1f90e3ef-c3e5-406e-9ae4-4f19564d3deb)
+
+The chart above highlights that the **7 PM to 10 PM** time slot is the most preferred, with an average of **over 3,000 likes** during these hours.
+
+## 11. Which content settings (allowing stitches, duets, sharing to story) correlate with higher likes?  
 ![Screenshot 2025-02-10 215615](https://github.com/user-attachments/assets/632c26d2-1323-4517-b6cf-6328407c3d04)
 
 The correlation matrix reveals the following:  
