@@ -1,10 +1,10 @@
 # OPTIMIZING TIKTOK CONTENT STRATEGY: An Analysis of Engagement Trends and Audience Interaction.
--
-## TABLE OF CONTENT
--
+
+
+
 ## OPTIMIZING TIKTOK CONTENT STRATEGY: An Analysis of Engagement Trends and Audience Interaction.
 
-In the fast-paced world of social media, understanding engagement dynamics is key. As TikTok's algorithm evolves, staying ahead means knowing what works. This analysis identifies optimal posting times, content types that resonate, and the impact of visibility settings, helping maximize reach and interaction by correlating posting times with engagement levels.
+In the fast-paced world of social media, understanding engagement dynamics is key. As TikTok's algorithm evolves, staying ahead means knowing what works. This analysis identifies optimal posting times, content types that resonate, and the impact of visibility settings, helping maximize reach and interaction by correlating posting times with engagement levels. this analysis also tell the story behind, how i grew my TIKTOK account from 100 to 3,300 in 2 and a half months.
 
 ## Data Structure
 - **Date, Day, Month, Year, Time, Period**: Information about when the posts were made.  
@@ -16,18 +16,18 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 - **Location**: Geographical setting for the post (e.g., Nigeria).  
 - **Username**: People who followed for the content.
 
-  ---
+  
 
 ## DATA SOURCE
 - The data set was extracted from my personal TIKTOK account
   
----
+
 
 ## TOOLS
 - Excel : for data cleaning and pivot table
 - Python : for analysis and visualization 
 
----
+
 
 ## TYPES OF ANALYSIS USED FOR THIS PROJECT
 - **Descriptive Analysis**: Summarizes the basic features of the dataset, such as average likes per post and overall engagement metrics.
@@ -36,7 +36,7 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 - **Comparative Analysis**: Compares different groups, such as posts with and without location restrictions, to assess performance differences.
 - **Trend Analysis**: Identifies changes over time, helping to spot shifts in audience preferences or engagement patterns.
 
----
+
 
 ## KEY PERFORMANCE INDICATORS
 - Engagement Rate
@@ -45,7 +45,7 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 - Optimal Posting Time
 - Sound Effectiveness
 
----
+
 
 ## OBJECTIVES
 1. **Measure Content Performance**  
@@ -63,7 +63,7 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 5. **Provide Actionable Insights**  
    Offer recommendations to improve content creation strategies for influencers, educators, and marketing professionals.  
 
----
+
 
 ## PEOPLE WHO CAN USE THIS ANALYSIS
 1. **Content Creators & Influencers**  
@@ -81,9 +81,9 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 5. **Data Analysts & Researchers**  
    Explore real-world applications of social media data and identify trends and patterns.  
 
----
 
-# ANALYTICAL QUESTIONS 
+
+## ANALYTICAL QUESTIONS 
 ### Engagement Metrics
 1. Which posts have the highest engagement (likes)?  
 2. What is the average number of likes per post?  
@@ -105,12 +105,9 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 ### Content Mix
 11. What’s the distribution of video vs. photo-based posts?  
 
----
 
-# Data Used
-**TikTok_Post.csv**
 
-# Data Cleaning Process
+# DATA CLEANING PROCESS 
 - No missing values.  
 - No duplicated values.  
 - Changed time format from `33:23:33` to `3:30 PM`.  
@@ -123,12 +120,10 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
   IF(AND(E1>=TIME(12,0,0), E1<TIME(18,0,0)), "Afternoon", "Evening")))
   ```
 
----
 
-# DATA ANALYSIS
----
+## DATA ANALYSIS
 
-# DESCRIPTIVE ANALYSIS 
+## DESCRIPTIVE ANALYSIS 
 1. **Post with the highest engagement (most likes)**  
    - **Title**: *Data Analyst interview questions: Excel, SQL, and Power BI*  
    - **Likes**: 9,680  
@@ -145,27 +140,27 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 
 ---
 
-# EXPLORATORY ANALYSIS
+## EXPLORATORY ANALYSIS
 
-## 4. Which sound or sound type performs best (most likes)? 
+### 4. Which sound or sound type performs best (most likes)? 
 ![Screenshot 2025-02-10 210932](https://github.com/user-attachments/assets/90b8e085-eb47-4897-b736-fe8d9fca510e)
 
 The table above shows that **trending sounds** are highly encouraged for better engagement.  
 
-## 5. What type of content titles attract the most likes?  
+### 5. What type of content titles attract the most likes?  
 ![Screenshot 2025-02-10 215237](https://github.com/user-attachments/assets/6fb8655f-0c05-4173-ae65-f81cbd8b2705)
 
 The chart above indicates that **educational content** titles attract the most likes.  
   
-## 6. What percentage of posts are visible to everyone?  
+### 6. What percentage of posts are visible to everyone?  
 ![Screenshot 2025-02-10 224901](https://github.com/user-attachments/assets/e7eceb50-dc98-4aee-bfc9-b2642d4b658c)
 
 Posts set to be visible to **everyone** show **better performance** than those with restricted visibility.  
 
----
 
-# COMPARATIVE ANALYSIS
-## 7. What’s the distribution of video vs. photo-based posts?  
+
+## COMPARATIVE ANALYSIS
+### 7. What’s the distribution of video vs. photo-based posts?  
 ![Screenshot 2025-02-10 234754](https://github.com/user-attachments/assets/04287064-0c52-48b9-a365-b0557aa5ffdd)
 
 The chart above reveals that **video content dominates** with over **70%**, while photo-based posts make up around **25%** of the total.  
@@ -175,7 +170,7 @@ The chart above reveals that **video content dominates** with over **70%**, whil
 
 Posts restricted to specific locations, such as **Nigeria**, **perform better** compared to unrestricted posts.  
 
----
+
 
 ## Time Series Analysis
 
@@ -190,14 +185,14 @@ The line chart shows a **significant increase** in engagement during **December 
 
 ---
 
-# CORRELATIVE ANALYSIS 
+## CORRELATIVE ANALYSIS 
 
-## 10. Is there a relationship between posting time (Date/Time) and engagement? 
+### 10. Is there a relationship between posting time (Date/Time) and engagement? 
 ![Screenshot 2025-02-10 215408](https://github.com/user-attachments/assets/1f90e3ef-c3e5-406e-9ae4-4f19564d3deb)
 
 The chart above highlights that the **7 PM to 10 PM** time slot is the most preferred, with an average of **over 3,000 likes** during these hours.
 
-## 11. Which content settings (allowing stitches, duets, sharing to story) correlate with higher likes?  
+### 11. Which content settings (allowing stitches, duets, sharing to story) correlate with higher likes?  
 ![Screenshot 2025-02-10 215615](https://github.com/user-attachments/assets/632c26d2-1323-4517-b6cf-6328407c3d04)
 
 The correlation matrix reveals the following:  
@@ -217,10 +212,30 @@ The correlation matrix reveals the following:
 5. **Like(s) and Allow sharing to story_Yes (-0.78)**:  
    Strong negative correlation. Allowing sharing to stories correlates with a significant decrease in likes.  
 
----
+
 ## RECOMMENDATIONS
 
----
+1. **Leverage Trending Sounds**: Since trending sounds are encouraged, incorporate them into content to boost engagement and align with current platform trends.
+
+2. **Focus on Educational Content**: Given the preference for educational content, consider creating more informative videos that provide value to the audience, potentially increasing reach and engagement.
+
+3. **Optimize Posting Schedule**: With the peak engagement hours identified as 7 PM to 10 PM, schedule posts during this window to maximize likes and interactions.
+
+4. **Utilize Location Restrictions**: Since posts restricted to specific locations perform better, tailor the content to target specific geographic audiences, enhancing relevance and engagement.
+
+5. **Balance Content Types**: Maintain a strong focus on video content, which constitutes over 70% of your posts, while also exploring creative ways to integrate photos, which make up 25%.
+
+6. **Capitalize on Seasonal Trends**: The spike in likes from December to January suggests a seasonal trend. Plan campaigns around this period to capitalize on increased user activity.
+
+7. **Adjust Posting Frequency**: The increase in posts during November to December contributed to higher engagement. Maintain a consistent posting frequency to sustain interest. if possible, post 2-3 times.
+
+8. **Engagement Features**: Re-evaluate the use of engagement features. Allowing stitches shows a positive correlation with likes, so i encourage this feature. However, be cautious with allowing comments and sharing to stories, as they show negative correlations with likes.
+
+By implementing these recommendations, content strategy can be refined to better engage my audience and enhance TikTok presence.
+
+## CONCLUSION
+
+TikTok is an app that rewards its users effectively, emphasizing authenticity over aesthetics. It's a game of numbers where frequent posting can lead to greater algorithmic favor. Remember, sharing valuable content will ensure you are valued in return.
 
 
 
