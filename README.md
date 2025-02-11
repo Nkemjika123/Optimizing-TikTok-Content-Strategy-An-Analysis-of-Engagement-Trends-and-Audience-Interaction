@@ -13,7 +13,7 @@
 10. [Data Analysis](#DESCRIPTIVE-ANALYSIS)  
 11. - [EXPLORATORY ANALYSIS](#EXPLORATORY-ANALYSIS)  
 12. - [COMPARATIVE ANALYSIS](#COMPARATIVE-ANALYSIS)  
-13. - [Time Series Analysis](#TIME-SERIES-ANALYSIS)  
+13. - [TIME SERIES ANALYSIS](#TIME-SERIES-ANALYSIS)  
 14. - [CORRELATIVE ANALYSIS](#CORRELATIVE-ANALYSIS)    
 15. [RECOMMENDATIONS](#RECOMMENDATIONS)  
 16. [CONCLUSION](#CONCLUSION)  
@@ -193,7 +193,7 @@ Posts restricted to specific locations, such as **Nigeria**, **perform better** 
 
 
 
-## Time Series Analysis
+## TIME SERIES ANALYSIS
 
 ### 9. How has engagement (likes) changed over time?  
 ![Screenshot 2025-02-10 230009](https://github.com/user-attachments/assets/14d433bb-7dfb-4ef2-8279-b9024838ec96)
