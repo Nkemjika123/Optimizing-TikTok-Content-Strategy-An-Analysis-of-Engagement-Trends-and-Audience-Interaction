@@ -19,7 +19,9 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
   
 
 ## DATA SOURCE
-- The data set was extracted from my personal TIKTOK account
+- The data set was extracted from my personal TIKTOK account <a href="https://github.com/Nkemjika123/Optimizing-TikTok-Content-Strategy-An-Analysis-of-Engagement-Trends-and-Audience-Interaction/blob/main/FOLLOWERS-TikTok.xlsx">Dataset1</a>
+<a href="https://github.com/Nkemjika123/Optimizing-TikTok-Content-Strategy-An-Analysis-of-Engagement-Trends-and-Audience-Interaction/blob/main/TikTok_Posts_Analysis.xlsx">Dataset2</a>
+
   
 
 
