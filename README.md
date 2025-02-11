@@ -8,7 +8,7 @@
 5. - [TYPES OF ANALYSIS](#types-of-analysis)  
 6. - [KEY PERFORMANCE INDICATORS](#key-performance-indicators)  
 7. - [OBJECTIVES](#objectives)  
-8. - [AUDIENCE](#audience)  
+8. - [AUDIENCE](#PEOPLE-WHO-CAN-USE-THIS-ANALYSIS)  
 9. - [ANALYTICAL QUESTIONS](#analytical-questions)
 10. - [DATA ANALYSIS](#Data-Analysis)
 11. - [DISCRIPTIVE ANALYSIS](#DESCRIPTIVE-ANALYSIS)  
