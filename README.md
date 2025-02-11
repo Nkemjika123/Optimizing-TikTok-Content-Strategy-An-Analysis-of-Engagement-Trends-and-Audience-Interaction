@@ -1,11 +1,12 @@
 # OPTIMIZING TIKTOK CONTENT STRATEGY: An Analysis of Engagement Trends and Audience Interaction.
----
+-
 ## TABLE OF CONTENT
----
+-
 ## OPTIMIZING TIKTOK CONTENT STRATEGY: An Analysis of Engagement Trends and Audience Interaction.
-- In the fast-paced world of social media, understanding engagement dynamics is key. As TikTok's algorithm evolves, staying ahead means knowing what works. This analysis identifies optimal posting times, content types that resonate, and the impact of visibility settings, helping maximize reach and interaction by correlating posting times with engagement levels.
 
-# Data Structure
+In the fast-paced world of social media, understanding engagement dynamics is key. As TikTok's algorithm evolves, staying ahead means knowing what works. This analysis identifies optimal posting times, content types that resonate, and the impact of visibility settings, helping maximize reach and interaction by correlating posting times with engagement levels.
+
+## Data Structure
 - **Date, Day, Month, Year, Time, Period**: Information about when the posts were made.  
 - **Like(s)**: Number of likes received.  
 - **Who can view**: Visibility setting (e.g., Everyone).  
@@ -17,18 +18,18 @@
 
   ---
 
-# DATA SOURCE
+## DATA SOURCE
 - The data set was extracted from my personal TIKTOK account
   
 ---
 
-# TOOLS
+## TOOLS
 - Excel : for data cleaning and pivot table
 - Python : for analysis and visualization 
 
 ---
 
-# TYPES OF ANALYSIS USED FOR THIS PROJECT
+## TYPES OF ANALYSIS USED FOR THIS PROJECT
 - **Descriptive Analysis**: Summarizes the basic features of the dataset, such as average likes per post and overall engagement metrics.
 - **Exploratory Analysis**: Investigates patterns and trends, like identifying which content types or sounds attract the most engagement.
 - **Correlational Analysis**: Examines relationships between variables, such as the correlation between posting times and engagement levels.
@@ -37,7 +38,7 @@
 
 ---
 
-# KEY PERFORMANCE INDICATORS
+## KEY PERFORMANCE INDICATORS
 - Engagement Rate
 - Average Likes per Post
 - Post Reach
@@ -46,7 +47,7 @@
 
 ---
 
-# OBJECTIVES
+## OBJECTIVES
 1. **Measure Content Performance**  
    Analyze engagement metrics such as likes and determine high-performing posts based on sound type, posting time, and content settings.  
 
@@ -217,7 +218,7 @@ The correlation matrix reveals the following:
    Strong negative correlation. Allowing sharing to stories correlates with a significant decrease in likes.  
 
 ---
-
+## RECOMMENDATIONS
 
 ---
 
