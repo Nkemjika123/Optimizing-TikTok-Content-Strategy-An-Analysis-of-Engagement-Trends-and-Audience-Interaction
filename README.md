@@ -4,7 +4,6 @@
 ## Data Stricture
 
 •	**Date, Day, Month, Year, Time, Period:** Information about when the posts were made.
-
 •	**Like(s):** Number of likes received.
 
 •	**Who can view:** Visibility setting (e.g., Everyone).
