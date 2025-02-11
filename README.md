@@ -5,7 +5,7 @@
 2. - [DATA STRUCTURE](#data-structure)  
 3. - [DATA SOURSE](#data-source)  
 4. - [TOOLS](#tools)  
-5. - [TYPES OF ANALYSIS USED IN THIS PROJECT](#types-of-analysis-USED-IN-THIS-PROJECT)  
+5. - [TYPES OF ANALYSIS USED FOR THIS PROJECT](#TYPES-OF-ANALYSIS-USED-FOR-THIS-PROJECT)  
 6. - [KEY PERFORMANCE INDICATORS](#key-performance-indicators)  
 7. - [OBJECTIVES](#objectives)  
 8. - [AUDIENCE](#PEOPLE-WHO-CAN-USE-THIS-ANALYSIS)  
