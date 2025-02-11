@@ -5,7 +5,7 @@
 2. - [DATA STRUCTURE](#data-structure)  
 3. - [DATA SOURSE](#data-source)  
 4. - [TOOLS](#tools)  
-5. - [TTYPES OF ANALYSIS](#types-of-analysis)  
+5. - [TYPES OF ANALYSIS](#types-of-analysis)  
 6. - [KEY PERFORMANCE INDICATORS](#key-performance-indicators)  
 7. - [OBJECTIVES](#objectives)  
 8. - [AUDIENCE](#audience)  
