@@ -51,7 +51,7 @@
 
 ---
 
-## Key Questions
+# Key Questions
 ### Engagement Metrics
 1. Which posts have the highest engagement (likes)?  
 2. What is the average number of likes per post?  
@@ -75,10 +75,10 @@
 
 ---
 
-## Data Used
+# Data Used
 **TikTok_Post.csv**
 
-### Data Cleaning Process
+# Data Cleaning Process
 - No missing values.  
 - No duplicated values.  
 - Changed time format from `33:23:33` to `3:30 PM`.  
@@ -93,7 +93,7 @@
 
 ---
 
-## Descriptive Analysis
+# Descriptive Analysis
 1. **Post with the highest engagement (most likes)**  
    - **Title**: *Data Analyst interview questions: Excel, SQL, and Power BI*  
    - **Likes**: 9,680  
@@ -110,21 +110,20 @@
 
 ---
 
-## Exploratory Analysis
+# Exploratory Analysis
 
-Here’s your complete analysis formatted with GitHub-flavored markdown for better structure and readability:
+### 4. Which sound or sound type performs best (most likes)? 
+![Screenshot 2025-02-10 210932](https://github.com/user-attachments/assets/90b8e085-eb47-4897-b736-fe8d9fca510e)
 
----
-
-## Content Analysis
-
-### 4. Which sound or sound type performs best (most likes)?  
 The table above shows that **trending sounds** are highly encouraged for better engagement.  
 
 ### 5. What type of content titles attract the most likes?  
+![Screenshot 2025-02-10 215237](https://github.com/user-attachments/assets/6fb8655f-0c05-4173-ae65-f81cbd8b2705)
+
 The chart above indicates that **educational content** titles attract the most likes.  
 
 ### 6. Is there a relationship between posting time (Date/Time) and engagement?  
+
 The chart above highlights that the **7 PM to 10 PM** time slot is the most preferred, with an average of **over 3,000 likes** during these hours.  
 
 ### 7. How many posts were restricted to specific locations (e.g., Nigeria), and how did they perform compared to unrestricted posts?  
@@ -141,6 +140,8 @@ The chart above reveals that **video content dominates** with over **70%**, whil
 ## Time Series Analysis
 
 ### 10. How has engagement (likes) changed over time?  
+![Screenshot 2025-02-10 230009](https://github.com/user-attachments/assets/14d433bb-7dfb-4ef2-8279-b9024838ec96)
+
 The line chart shows a **significant increase** in engagement during **December to January 2025**, with total likes exceeding **10,000**.  
 
 - Likes decline in **February 2025**, which may be due to the data being extracted on **07/02/2025**, resulting in incomplete February data.  
@@ -149,9 +150,11 @@ The line chart shows a **significant increase** in engagement during **December 
 
 ---
 
-## Correlation Analysis
+# Correlation Analysis
 
 ### 11. Which content settings (allowing stitches, duets, sharing to story) correlate with higher likes?  
+![Screenshot 2025-02-10 215615](https://github.com/user-attachments/assets/632c26d2-1323-4517-b6cf-6328407c3d04)
+
 The correlation matrix reveals the following:  
 
 1. **Like(s) and Allow comments_Yes (-0.53)**:  
