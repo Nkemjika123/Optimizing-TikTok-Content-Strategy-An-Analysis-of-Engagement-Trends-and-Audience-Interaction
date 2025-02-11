@@ -1,7 +1,7 @@
 # OPTIMIZING TIKTOK CONTENT STRATEGY: An Analysis of Engagement Trends and Audience Interaction.
 
 ## Table of Contents
-1. - [INTRODUCTION](#OPTIMIZING-TIKTOK-CONTENT-STRATEGY:-An-Analysis-of-Engagement-Trends-and-Audience-Interaction.)  
+1. - [INTRODUCTION](#INTRODUCTION)  
 2. - [DATA STRUCTURE](#data-structure)  
 3. - [DATA SOURSE](#data-source)  
 4. - [TOOLS](#tools)  
@@ -20,6 +20,7 @@
 17. - [CONCLUSION](#CONCLUSION)  
 
 
+## INTRODUCTION
 ## OPTIMIZING TIKTOK CONTENT STRATEGY: An Analysis of Engagement Trends and Audience Interaction.
 
 In the fast-paced world of social media, understanding engagement dynamics is key. As TikTok's algorithm evolves, staying ahead means knowing what works. This analysis identifies optimal posting times, content types that resonate, and the impact of visibility settings, helping maximize reach and interaction by correlating posting times with engagement levels. this analysis also tell the story behind, how i grew my TIKTOK account from 100 to 3,300 in 2 and a half months.
