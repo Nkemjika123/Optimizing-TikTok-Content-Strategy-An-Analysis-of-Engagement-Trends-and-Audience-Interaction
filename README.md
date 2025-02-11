@@ -1,9 +1,9 @@
 # Optimizing-TikTok-Content-Strategy-An-Analysis-of-Engagement-Trends-and-Audience-Interaction
-
-
+---
+# TABLE OF CONTENT
 ---
 
-## Data Structure
+# Data Structure
 - **Date, Day, Month, Year, Time, Period**: Information about when the posts were made.  
 - **Like(s)**: Number of likes received.  
 - **Who can view**: Visibility setting (e.g., Everyone).  
@@ -11,11 +11,40 @@
 - **Sound**: Sound used in the post (e.g., original sound, popular sound).  
 - **Title**: Post title or description.  
 - **Location**: Geographical setting for the post (e.g., Nigeria).  
-- **Username**: People who followed for the content.  
+- **Username**: People who followed for the content.
+
+  ---
+
+# DATA SOURCE
+- The data set was extracted from my personal TIKTOK account
+  
+---
+
+# TOOLS
+- Excel : for data cleaning and pivot table
+- Python : for analysis and visualization 
 
 ---
 
-## Objectives
+# TYPES OF ANALYSIS USED FOR THIS PROJECT
+- **Descriptive Analysis**: Summarizes the basic features of the dataset, such as average likes per post and overall engagement metrics.
+- **Exploratory Analysis**: Investigates patterns and trends, like identifying which content types or sounds attract the most engagement.
+- **Correlational Analysis**: Examines relationships between variables, such as the correlation between posting times and engagement levels.
+- **Comparative Analysis**: Compares different groups, such as posts with and without location restrictions, to assess performance differences.
+- **Trend Analysis**: Identifies changes over time, helping to spot shifts in audience preferences or engagement patterns.
+
+---
+
+# KEY PERFORMANCE INDICATORS
+- Engagement Rate
+- Average Likes per Post
+- Post Reach
+- Optimal Posting Time
+- Sound Effectiveness
+
+---
+
+# OBJECTIVES
 1. **Measure Content Performance**  
    Analyze engagement metrics such as likes and determine high-performing posts based on sound type, posting time, and content settings.  
 
@@ -33,7 +62,7 @@
 
 ---
 
-## People Who Can Use This Analysis
+## PEOPLE WHO CAN USE THIS ANALYSIS
 1. **Content Creators & Influencers**  
    Understand how to maximize reach, improve engagement, and tailor content to audience preferences.  
 
@@ -51,7 +80,7 @@
 
 ---
 
-# Key Questions
+# ANALYTICAL QUESTIONS 
 ### Engagement Metrics
 1. Which posts have the highest engagement (likes)?  
 2. What is the average number of likes per post?  
@@ -93,7 +122,10 @@
 
 ---
 
-# Descriptive Analysis
+# DATA ANALYSIS
+---
+
+# DESCRIPTIVE ANALYSIS 
 1. **Post with the highest engagement (most likes)**  
    - **Title**: *Data Analyst interview questions: Excel, SQL, and Power BI*  
    - **Likes**: 9,680  
