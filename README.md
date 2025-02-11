@@ -4,6 +4,7 @@
 ## Data Stricture
 
 •	**Date, Day, Month, Year, Time, Period:** Information about when the posts were made.
+
 •	**Like(s):** Number of likes received.
 
 •	**Who can view:** Visibility setting (e.g., Everyone).
@@ -21,15 +22,19 @@
 # Objectives
 
 1.	**Measure Content Performance**
-Analyze engagement metrics such as likes and determine high-performing posts based on sound type, posting time, and content settings.
-2.	**Identify Engagement Trends**
-Track the growth in engagement over time and understand which factors (e.g., allowing comments, sharing to stories) contribute to better performance.
-3.	**Optimize Content Strategy**
-Uncover the best posting times, popular sound choices, and effective content themes to increase visibility and interaction.
-4.	**Audience Interaction Analysis**
-Study audience interaction settings ( stitches, duets) to gauge how they affect engagement and content reach.
-5.	**Provide Actionable Insights**
-Offer recommendations to improve content creation strategies for influencers, educators, and marketing professionals.
+  	Analyze engagement metrics such as likes and determine high-performing posts based on sound type, posting time, and content settings.
+
+3.	**Identify Engagement Trends**
+    Track the growth in engagement over time and understand which factors (e.g., allowing comments, sharing to stories) contribute to better performance.
+
+5.	**Optimize Content Strategy**	
+    Uncover the best posting times, popular sound choices, and effective content themes to increase visibility and interaction.
+
+7.	**Audience Interaction Analysis**	
+     Study audience interaction settings ( stitches, duets) to gauge how they affect engagement and content reach.
+
+10.	**Provide Actionable Insights**
+    Offer recommendations to improve content creation strategies for influencers, educators, and marketing professionals.
 
 
 # People Who Can Use This Analysis
