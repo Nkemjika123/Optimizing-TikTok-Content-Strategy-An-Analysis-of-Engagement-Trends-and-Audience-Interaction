@@ -3,7 +3,7 @@
 ## Table of Contents
 1.  [INTRODUCTION](#INTRODUCTION)  
 2.  [DATA STRUCTURE](#data-structure)  
-3.  [DATA SOURSE](#data-source)
+3.  [DATA SOURCE](#data-source)
 4.  [DATA EXTRACTION METHODOLOGY ](#data-extraction-methodology)
 5.  [DATA STORAGE & SECURITY](#data-storage-&-security)
 6.  [TOOLS](#tools)  
