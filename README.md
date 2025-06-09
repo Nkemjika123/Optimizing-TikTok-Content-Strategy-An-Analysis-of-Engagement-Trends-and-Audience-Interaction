@@ -18,9 +18,10 @@
 15. [COMPARATIVE ANALYSIS WITH VISUALIZATIONS](#COMPARATIVE-ANALYSIS)  
 16. [TIME SERIES ANALYSIS WITH VISUALIZATIONS](#TIME-SERIES-ANALYSIS)  
 17. [CORRELATIVE ANALYSIS WITH VISUALIZATIONS](#CORRELATIVE-ANALYSIS)
-18. [DASHBOARD & VISUALIZATION ](#dashboard--visualizations)    
+18. [DASHBOARD & VISUALIZATION ](#dashboard-&-visualization)    
 19. [RECOMMENDATIONS](#RECOMMENDATIONS)  
-20. [CONCLUSION](#CONCLUSION)  
+20. [CONCLUSION](#CONCLUSION)
+21. [Notice: Dynamic Data Updates](#notice:-dynamic-data-updates) 
 
 
 ## INTRODUCTION
@@ -300,6 +301,14 @@ By implementing these recommendations, content strategy can be refined to better
 
 TikTok is an app that rewards its users effectively, emphasizing authenticity over aesthetics. It's a game of numbers where frequent posting can lead to greater algorithmic favor. Remember, sharing valuable content will ensure you are valued in return.
 
+
+
+
+
+## Notice: Dynamic Data Updates
+The data extracted from TikTok is subject to continuous updates as new information becomes available. Due to the evolving nature of TikTok's platform, metrics, content, and engagement statistics may change over time. As a result, analyses and insights generated from this data may reflect different trends depending on the extraction date.
+
+To ensure accuracy, users should refer to the most recent dataset whenever conducting analysis or drawing conclusions
 
 
 
