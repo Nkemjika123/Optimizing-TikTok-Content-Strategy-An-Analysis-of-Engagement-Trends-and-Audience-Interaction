@@ -21,7 +21,7 @@
 18. [DASHBOARD & VISUALIZATION ](#dashboard-&-visualization)    
 19. [RECOMMENDATIONS](#RECOMMENDATIONS)  
 20. [CONCLUSION](#CONCLUSION)
-21.[Notice: Dynamic Data Updates](#notice-dynamic-data-updates)
+21. [Notice: Dynamic Data Updates](#notice-dynamic-data-updates)
  
 
 
