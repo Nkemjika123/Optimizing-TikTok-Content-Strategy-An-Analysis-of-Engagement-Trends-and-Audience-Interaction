@@ -3,22 +3,23 @@
 ## Table of Contents
 1.  [INTRODUCTION](#INTRODUCTION)  
 2.  [DATA STRUCTURE](#data-structure)  
-3.  [DATA SOURSE](#data-source)  
-4.  [TOOLS](#tools)  
-5.  [TYPES OF ANALYSIS USED FOR THIS PROJECT](#TYPES-OF-ANALYSIS-USED-FOR-THIS-PROJECT)  
-6.  [KEY PERFORMANCE INDICATORS](#key-performance-indicators)  
-7.  [OBJECTIVES](#objectives)  
-8.  [AUDIENCE](#PEOPLE-WHO-CAN-USE-THIS-ANALYSIS)  
-9.  [ANALYTICAL QUESTIONS](#analytical-questions)
-10. [DATA ANALYSIS](#Data-Analysis)
-11. [DISCRIPTIVE ANALYSIS](#DESCRIPTIVE-ANALYSIS)  
-12. [EXPLORATORY ANALYSIS WITH VISUALIZATIONS](#EXPLORATORY-ANALYSIS)  
-13. [COMPARATIVE ANALYSIS WITH VISUALIZATIONS](#COMPARATIVE-ANALYSIS)  
-14. [TIME SERIES ANALYSIS WITH VISUALIZATIONS](#TIME-SERIES-ANALYSIS)  
-15. [CORRELATIVE ANALYSIS WITH VISUALIZATIONS](#CORRELATIVE-ANALYSIS)
-16. [DASHBOARD & VISUALIZATION ](#dashboard--visualizations)    
-17. [RECOMMENDATIONS](#RECOMMENDATIONS)  
-18. [CONCLUSION](#CONCLUSION)  
+3.  [DATA SOURSE](#data-source)
+4.  [DATA EXTRACTION METHODOLOGY ](#data-extraction-methodology) 
+5.  [TOOLS](#tools)  
+6.  [TYPES OF ANALYSIS USED FOR THIS PROJECT](#TYPES-OF-ANALYSIS-USED-FOR-THIS-PROJECT)  
+7.  [KEY PERFORMANCE INDICATORS](#key-performance-indicators)  
+8.  [OBJECTIVES](#objectives)  
+9.  [AUDIENCE](#PEOPLE-WHO-CAN-USE-THIS-ANALYSIS)  
+10. [ANALYTICAL QUESTIONS](#analytical-questions)
+11. [DATA ANALYSIS](#Data-Analysis)
+12. [DISCRIPTIVE ANALYSIS](#DESCRIPTIVE-ANALYSIS)  
+13. [EXPLORATORY ANALYSIS WITH VISUALIZATIONS](#EXPLORATORY-ANALYSIS)  
+14. [COMPARATIVE ANALYSIS WITH VISUALIZATIONS](#COMPARATIVE-ANALYSIS)  
+15. [TIME SERIES ANALYSIS WITH VISUALIZATIONS](#TIME-SERIES-ANALYSIS)  
+16. [CORRELATIVE ANALYSIS WITH VISUALIZATIONS](#CORRELATIVE-ANALYSIS)
+17. [DASHBOARD & VISUALIZATION ](#dashboard--visualizations)    
+18. [RECOMMENDATIONS](#RECOMMENDATIONS)  
+19. [CONCLUSION](#CONCLUSION)  
 
 
 ## INTRODUCTION
@@ -44,12 +45,44 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 - <a href="https://github.com/Nkemjika123/Optimizing-TikTok-Content-Strategy-An-Analysis-of-Engagement-Trends-and-Audience-Interaction/blob/main/FOLLOWERS-TikTok.xlsx">Dataset1</a>
 - <a href="https://github.com/Nkemjika123/Optimizing-TikTok-Content-Strategy-An-Analysis-of-Engagement-Trends-and-Audience-Interaction/blob/main/TikTok_Posts_Analysis.xlsx">Dataset2</a>
 
-  
+
+## DATA EXTRACTION METHODOLOGY 
+A. TikTok Provided Data
+- Access TikTok Data
+- Navigate to TikTok’s data export section.
+- Select the required data fields (e.g., engagement metrics, video performance, audience insights).
+- Download the dataset in CSV or JSON format.
+- Preprocessing TikTok Data
+- Verify data integrity and completeness.
+- Convert formats if necessary (e.g., JSON to CSV).
+- Store raw data securely for further processing.
+
+B. Rows.com API Extraction
+- Setting Up Rows.com
+- Log in to Rows.com and create a new workspace.
+- Connect to TikTok’s API using authentication credentials.
+- Extracting Data via API
+- Define API queries to fetch relevant TikTok metrics.
+- Automate data retrieval using scheduled API calls.
+- Store extracted data in structured tables within Rows.com..
+- Data Cleaning & Transformation
+- Remove duplicates and inconsistencies.
+- Standardize column names and formats.
+- Merge TikTok’s provided data with API-extracted data for a unified dataset.
+
+4. Data Storage & Security
+- Store extracted data in secure cloud storage or a database.
+- Implement access control to protect sensitive information.
+- Ensure compliance with TikTok’s data usage policies.
+
+Conclusion
+This structured approach ensures efficient, accurate, and secure TikTok data extraction for analysis and reporting.
 
 
 ## TOOLS
 - Excel : for data cleaning and pivot table
-- Python : for analysis and visualization 
+- Python : for analysis and visualization
+- Power-BI: for creating measures and visualization 
 
 
 
@@ -63,11 +96,13 @@ In the fast-paced world of social media, understanding engagement dynamics is ke
 
 
 ## KEY PERFORMANCE INDICATORS
-- Engagement Rate
-- Average Likes per Post
+- Engagement Engagement Rate
+- Average followers per day
 - Post Reach
-- Optimal Posting Time
-- Sound Effectiveness
+- Monthly FOllowers
+- Total views
+- Total Likes
+- Total share
 
 
 
