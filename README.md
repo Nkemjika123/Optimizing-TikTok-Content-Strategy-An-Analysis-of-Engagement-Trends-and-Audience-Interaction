@@ -10,7 +10,7 @@
 7.  [TYPES OF ANALYSIS USED FOR THIS PROJECT](#TYPES-OF-ANALYSIS-USED-FOR-THIS-PROJECT)  
 8.  [KEY PERFORMANCE INDICATORS](#key-performance-indicators)  
 9.  [OBJECTIVES](#objectives)  
-10.  [AUDIENCE](#PEOPLE-WHO-CAN-USE-THIS-ANALYSIS)  
+10. [AUDIENCE](#PEOPLE-WHO-CAN-USE-THIS-ANALYSIS)  
 11. [ANALYTICAL QUESTIONS](#analytical-questions)
 12. [DATA ANALYSIS](#Data-Analysis)
 13. [DISCRIPTIVE ANALYSIS](#DESCRIPTIVE-ANALYSIS)  
@@ -21,7 +21,7 @@
 18. [DASHBOARD & VISUALIZATION ](#dashboard-&-visualization)    
 19. [RECOMMENDATIONS](#RECOMMENDATIONS)  
 20. [CONCLUSION](#CONCLUSION)
-21. [Notice: Dynamic Data Updates](#notice:-dynamic-data-updates) 
+21. [Notice : Dynamic Data Updates](#notice-:-dynamic-data-updates) 
 
 
 ## INTRODUCTION
@@ -304,8 +304,7 @@ TikTok is an app that rewards its users effectively, emphasizing authenticity ov
 
 
 
-
-## Notice: Dynamic Data Updates
+## Notice : Dynamic Data Updates
 The data extracted from TikTok is subject to continuous updates as new information becomes available. Due to the evolving nature of TikTok's platform, metrics, content, and engagement statistics may change over time. As a result, analyses and insights generated from this data may reflect different trends depending on the extraction date.
 
 To ensure accuracy, users should refer to the most recent dataset whenever conducting analysis or drawing conclusions
